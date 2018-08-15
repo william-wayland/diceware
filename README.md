@@ -1,3 +1,3 @@
 # Diceware Password Generator
 
-This repository's being hosted [here](https://gutrix.github.io/c).
+This repository is being hosted [here](https://gutrix.github.io/diceware).
